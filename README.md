@@ -1,4 +1,4 @@
-# Example application for the DOBC Lesson 10 TODO
+# Example application and CI testing with Travis CI.
 
 ##How to set up and run the application:
 
